@@ -1,0 +1,9 @@
+Building AzzaCoin
+
+See doc/readme-qt.rst for instructions on building AzzaCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AzzaCoin.
+
+See doc/build-*.txt for instructions on building AzzaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AzzaCoin.
